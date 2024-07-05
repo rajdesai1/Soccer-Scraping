@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"beautifulsoup4" = "*"
+prettytable = "*"
+"bs4" = "*"
+pandas = "*"
+xlwt = "*"
+requests = "*"
+matplotlib = "*"
+numpy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
